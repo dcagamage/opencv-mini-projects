@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-print(mp.solutions)
+# pip install --no-cache-dir mediapipe==0.10.11
 import pyautogui
 
 x1 = y1 = x2 = y2 = 0
